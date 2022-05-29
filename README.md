@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://profile-counter.glitch.me/anjana-kt/count.svg)
+
 - 🔭 I’m a curious student and programmer.
 - 🌱 I’m currently learning Blockchain and Web3.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anjana-kt/)
