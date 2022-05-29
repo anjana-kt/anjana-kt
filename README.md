@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-kt&label=Profile%20views&color=0e75b6&style=flat" alt="anjana" /> </p>
+<br>
 - 🔭 I’m a curious student and programmer.
 - 🌱 I’m currently learning Blockchain and Web3.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/anjana-kt/)
