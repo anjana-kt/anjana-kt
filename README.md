@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Visitor Count](https://profile-counter.glitch.me/anjana-kt/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-kt&label=Profile%20views&color=0e75b6&style=flat" alt="anjana" /> </p>
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-kt&label=Profile%20views&color=0e75b6&style=flat" alt="anjana" /> </p>
 
 - 🔭 I’m a curious student and programmer.
 - 🌱 I’m currently learning Blockchain and Web3.
