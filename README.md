@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m a curious student and programmer.
+- 🔭 I’m a curious software developer.
+- 🔭 I’m currently working on frontend development.
 - 🌱 I’m currently learning Blockchain and Web3.
 - 📫 Connect : [linkedin](https://www.linkedin.com/in/anjana-kt/)
